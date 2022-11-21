@@ -1,2 +1,2 @@
 # dataRepresattion-coursework
-# Coursework from Sept to Dec 2022
+Coursework from Sept to Dec 2022
