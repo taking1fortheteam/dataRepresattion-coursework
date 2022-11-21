@@ -1,0 +1,45 @@
+<!--
+Assignment 1.1 Create an XML
+Exercise 1.1
+Create an XML file that stores data for a library (You can create this manually, I am not asking you to create a program to do this). 
+
+The library has two catalogues (technical books, and for cookery books).
+
+Each catalogue can contain a number of books (say 2 for the purpose of this exercise) . 
+
+Books will have an ISBN, title and author.
+
+Upload your .xml file to your github repository called data-representation-coursework
+-->
+
+<?xml verson="1.0" encoding="UTF-8"?>
+<library_menu>
+    <technical_books>
+        <title>The Theory of Everything</title>
+        <author>Tom McSwiggan</author>
+        <isbn>8224551212</isbn>
+    </technical_books>
+    <technical_books>
+        <title>The Theory of Everything 2</title>
+        <author>Tom McSwiggan and Joney Mitchell</author>
+        <isbn>8224551212-1234</isbn>
+    </technical_books>
+    <cookery_books>
+        <title>Dancing with the Fat</title>
+        <author>Jerry and Tom</author>
+        <isbn>12457899696</isbn>
+    </cookery_books>
+    <cookery_books>
+        <title>The great bake off</title>
+        <author>Phatty McPhat</author>
+        <isbn>1332525589</isbn>
+    </cookery_books>   
+</library_menu>        
+
+
+        
+
+
+
+
+      
